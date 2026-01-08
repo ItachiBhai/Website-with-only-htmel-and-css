@@ -4,3 +4,19 @@
   box-sizing: border-box;
   font-family: "Segoe UI", sans-serif;
 }
+
+body {
+  color: #0f172a;
+}
+
+/* NAVBAR */
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 60px;
+}
+
+.logo img {
+  height: 36px;
+}
